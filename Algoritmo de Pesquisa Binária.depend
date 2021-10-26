@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1635111508 source:v:\github\my repositorys\pesquisa binária\algoritmo de pesquisa binária\main.cpp
+	<iostream>
+	<array>
+
+1635113329 source:v:\github\my repositorys\pesquisa binária\algoritmo de pesquisa binária\binary_search_algorithm\main.cpp
+	<iostream>
+	<array>
+
